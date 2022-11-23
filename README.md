@@ -98,7 +98,7 @@ me = Aboutme()
 
 # 🧙‍♀️ About Me:
 - 🏦 I'm Studying Data Science Masters @[Dalarna University](https://www.du.se/en)
-- 📝 I have experience in Business Analysis and Programming
+- 📊 I have a keen interest in data analytics and visualization
 - 📖 I am currently reading **Probability, Statistics, and Stochastic Processes** by Peter Olofsson | Mikael Andersson
 - 📬 We can connect on 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hejsachi) 
