@@ -95,6 +95,15 @@ me = Aboutme()
   </tr>
 </table>
 
-    
+
+# 🧙‍♀️ About Me:
+- 🏦 I'm Studying Data Science Masters @[Dalarna University](https://www.du.se/en)
+- 📝 I have experience in Business Analysis and Programming
+- 📖 I am currently reading **Probability, Statistics, and Stochastic Processes** by Peter Olofsson | Mikael Andersson
+- 📬 We can connect on 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hejsachi) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sacthewitch) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCt1QVDoAd5N8c7PnvHYvQjQ) 
+- ⚡ Fun fact: I Draw Ocationally & Practice Witchcraft 🔮 🤫
 
           
