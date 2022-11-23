@@ -1,4 +1,4 @@
-# Hi there! 
+# Hej Hej! <img src="https://github.com/sacthewitch/sacthewitch/blob/main/giphy%20(1).gif" width="55" />
 
 ![](https://github.com/sacthewitch/sacthewitch/blob/main/Kvtf.gif)
 
